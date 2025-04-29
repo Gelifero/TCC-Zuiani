@@ -1,0 +1,29 @@
+.barra-vermelha {
+    background-color: #274780; 
+    color: #fff; 
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.barra-vermelha a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.barra-vermelha a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: #fff;
+    color: #C9201B;
+    border: none;
+    padding: 5px
+}
+
+input {
+    padding: 5px;
+}
